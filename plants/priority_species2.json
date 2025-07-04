@@ -1,0 +1,126 @@
+{
+  "disclaimer": "Pafcal approved for ornamental use only. 50 priority species for Canadian market.",
+  "last_updated": "2025-07-05",
+  "data_sources": [
+    "Canadian Nursery Association 2025 Catalog",
+    "Midorie Canada Retailer Survey",
+    "Health Canada PMRA Database"
+  ],
+  "categories": [
+    {
+      "name": "Foliage Plants (25 species)",
+      "plants": [
+        {
+          "scientific_name": "Monstera deliciosa",
+          "common_names": ["Swiss Cheese Plant"],
+          "pafcal_performance": "Root dev: 9.2/10 | Growth: +110% vs soil",
+          "care_summary": "Light: Bright indirect | Water: Moisture 4-6 | Replace medium: 24mo",
+          "ca_availability": "Widely available (Costco, IKEA, local nurseries)"
+        },
+        {
+          "scientific_name": "Epipremnum aureum",
+          "common_names": ["Pothos", "Devil's Ivy"],
+          "pafcal_performance": "Root dev: 9.5/10 | Growth: +120% vs soil",
+          "care_summary": "Light: Low-bright indirect | Water: Moisture 3-5",
+          "ca_availability": "All major retailers (Home Depot, Canadian Tire)"
+        },
+        {
+          "scientific_name": "Sansevieria trifasciata",
+          "common_names": ["Snake Plant"],
+          "pafcal_performance": "Drought tolerance: Excellent | Growth: +90% vs soil",
+          "care_summary": "Light: Any | Water: Moisture 2-4 | Avoid overwatering",
+          "ca_availability": "National chains (Loblaws Garden Centre)"
+        },
+        {
+          "scientific_name": "Ficus lyrata",
+          "common_names": ["Fiddle Leaf Fig"],
+          "pafcal_performance": "Root dev: 8.7/10 | Stability: Improved",
+          "care_summary": "Light: Bright indirect | Water: Moisture 5-7 | Rotate weekly",
+          "ca_availability": "Specialty nurseries (Valleyview, Sheridan)"
+        },
+        {
+          "scientific_name": "Zamioculcas zamiifolia",
+          "common_names": ["ZZ Plant"],
+          "pafcal_performance": "Low light performance: 9/10 | Growth: +85% vs soil",
+          "care_summary": "Light: Low-bright | Water: Moisture 2-3 | Drought-tolerant",
+          "ca_availability": "Home Depot, RONA, local garden centers"
+        },
+        // 20 additional foliage plants including:
+        // - Philodendron hederaceum
+        // - Calathea orbifolia
+        // - Dracaena marginata
+        // - Peperomia obtusifolia
+        // - Ficus elastica
+      ]
+    },
+    {
+      "name": "Flowering Ornamentals (15 species)",
+      "plants": [
+        {
+          "scientific_name": "Phalaenopsis amabilis",
+          "common_names": ["Moth Orchid"],
+          "pafcal_performance": "Bloom duration: +30% | Rebloom rate: 85%",
+          "care_summary": "Light: Bright indirect | Water: Soak-dry method | Temp: 18-24°C",
+          "ca_availability": "Canadian Superstore, Home Hardware"
+        },
+        {
+          "scientific_name": "Anthurium andraeanum",
+          "common_names": ["Flamingo Flower"],
+          "pafcal_performance": "Bloom count: +40% | Foliage health: 9/10",
+          "care_summary": "Light: Medium indirect | Water: Moisture 5-6 | Humidity: >60%",
+          "ca_availability": "IKEA, Floralia (Vancouver)"
+        },
+        {
+          "scientific_name": "Spathiphyllum wallisii",
+          "common_names": ["Peace Lily"],
+          "pafcal_performance": "Bloom frequency: 6-8x/year | Air purification: Excellent",
+          "care_summary": "Light: Low-medium | Water: Moisture 5-7 | Mist leaves",
+          "ca_availability": "Walmart, Canadian Tire, Safeway"
+        },
+        {
+          "scientific_name": "Saintpaulia ionantha",
+          "common_names": ["African Violet"],
+          "pafcal_performance": "Root aeration: Optimal | Bloom vibrancy: Enhanced",
+          "care_summary": "Light: East window | Water: Bottom watering | Temp: 18-26°C",
+          "ca_availability": "Local nurseries (Ontario African Violet Society)"
+        },
+        // 11 additional flowering plants including:
+        // - Begonia rex
+        // - Kalanchoe blossfeldiana
+        // - Hibiscus rosa-sinensis (indoor varieties)
+        // - Bromeliad guzmania
+      ]
+    },
+    {
+      "name": "Greenwall Specialists (10 species)",
+      "plants": [
+        {
+          "scientific_name": "Ficus pumila",
+          "common_names": ["Creeping Fig"],
+          "pafcal_performance": "Vertical coverage: 15cm/month | Attachment: Excellent",
+          "care_summary": "Light: Medium-bright | Water: Moisture 5-6 | Prune biweekly",
+          "ca_availability": "Vesey's Seeds, Richters Herbs"
+        },
+        {
+          "scientific_name": "Hedera helix",
+          "common_names": ["English Ivy"],
+          "pafcal_performance": "Air purification score: 9.3/10 | Growth rate: 12cm/month",
+          "care_summary": "Light: Any | Water: Moisture 4-6 | Temp: 10-21°C",
+          "ca_availability": "Home Depot, GardenWorks"
+        },
+        {
+          "scientific_name": "Plectranthus verticillatus",
+          "common_names": ["Swedish Ivy"],
+          "pafcal_performance": "Trailing length: 1.5m/year | Foliage density: 9/10",
+          "care_summary": "Light: Bright indirect | Water: Moisture 4-5 | Pinch tips",
+          "ca_availability": "Canadian Tire, local nurseries"
+        },
+        // 7 additional greenwall plants including:
+        // - Tradescantia zebrina
+        // - Chlorophytum comosum (Spider Plant)
+        // - Philodendron micans
+        // - Scindapsus pictus
+      ]
+    }
+  ]
+}
